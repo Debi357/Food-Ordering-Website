@@ -1,6 +1,7 @@
 <h1 align="center"> Online-Food-Ordering-Website </h1>
 
 This project is a **fully customized and improved** version of Online Food Ordering Website using basic PHP, SQL, HTML & CSS. it includes: 
+
 ✔️ A fresh **UI design** with a modern look  
 ✔️ **New features** and improved responsiveness  
 ✔️ **Custom animations and effects**  
