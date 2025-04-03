@@ -15,7 +15,7 @@ Login: admin <br>
 Password: 2025 <br>
 
 ## 📸 Screenshots 
-![Screenshot 1](link-to-image)  
+![Screenshot 1](https://github.com/Debi357/Food-Ordering-Website/blob/main/home.png) 
 ![Screenshot 2](link-to-image) 
 
 ## Technologies Used
