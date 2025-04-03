@@ -1,5 +1,6 @@
-<h1 align="center"> Online-Food-Ordering-Website </h1>
+<h1 align="center">  📌 Online-Food-Ordering-Website </h1>
 
+🚀 Overview
 This project is a **fully customized and improved** version of Online Food Ordering Website using basic PHP, SQL, HTML & CSS. It includes: 
 
 ✔️ A fresh **UI design** with a modern look  
@@ -11,9 +12,7 @@ This project is a **fully customized and improved** version of Online Food Order
 
 <hr>
 
-Admin Login & Password (You can change this in phpmyadmin): <br>
-Login: admin <br>
-Password: 2025 <br>
+
 
 
 ## 📸 Screenshots 
@@ -21,7 +20,7 @@ Password: 2025 <br>
 ![Screenshot 2](https://github.com/Debi357/Food-Ordering-Website/blob/main/login.png) 
 
 
-## Technologies Used
+##  💻 Technologies Used
 
 <ul>
   <li>HTML</li>
@@ -33,19 +32,24 @@ Password: 2025 <br>
 </ul>
 
 
-## Tools Used
+##  🔧Tools Used
 <ul>
   <li>XAMPP</li>
 </ul>
 
 
-## How to Install and Use
+##  📂How to Install and Use
 1. Download and install XAMPP/WAMP/LAMP server and download the files of this project
 2. Copy the folder of this project in your xampp/htdocs/www folder
 3. Start XAMMP. Start Apache and SQL server. Go to phpmyadmin and create a new database named 'food'
 4. Go to the food database created and click on 'Import' option in the top menu
 5. Upload the food.sql file and import it
 6. Open your web browser and check if you got the website running on your localhost (http://localhost:8080/www/)
+
+
+🔑 Admin Login & Password (You can change this in phpmyadmin): <br>
+Login: admin <br>
+Password: 2025 <br>
 
 
   ## ⚖️ License
