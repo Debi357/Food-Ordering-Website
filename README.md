@@ -67,5 +67,11 @@ Bootstrap – The original grid system
 Special thanks to the open-source community!
 
 
+## 📬 Contact & Contributions
+If you’d like to contribute or discuss improvements, feel free to:
+📧 Email: chakrabortydebika36@gmail.com
+🐙 GitHub: https://github.com/Debi357
+
+
 ## ⭐ Show Some Love!
 If you find this project helpful, give it a star ⭐ on GitHub!
