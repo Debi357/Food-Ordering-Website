@@ -14,9 +14,11 @@ Admin Login & Password (You can change this in phpmyadmin): <br>
 Login: admin <br>
 Password: 2025 <br>
 
+
 ## 📸 Screenshots 
 ![Screenshot 1](https://github.com/Debi357/Food-Ordering-Website/blob/main/home.png) 
 ![Screenshot 2](https://github.com/Debi357/Food-Ordering-Website/blob/main/login.png) 
+
 
 ## Technologies Used
 
@@ -29,10 +31,12 @@ Password: 2025 <br>
   <li>MySQL</li>
 </ul>
 
+
 ## Tools Used
 <ul>
   <li>XAMPP</li>
 </ul>
+
 
 ## How to Install and Use
 1. Download and install XAMPP/WAMP/LAMP server and download the files of this project
@@ -55,6 +59,8 @@ Licensed under MIT
 ## 🙌 Acknowledgments
 Bootstrap – The original grid system
 
-[Any other libraries/tools you used]
-
 Special thanks to the open-source community!
+
+
+⭐ Show Some Love!
+If you find this project helpful, give it a star ⭐ on GitHub!
