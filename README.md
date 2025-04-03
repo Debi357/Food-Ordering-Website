@@ -68,9 +68,9 @@ Special thanks to the open-source community!
 
 
 ## 📬 Contact & Contributions
-If you’d like to contribute or discuss improvements, feel free to:
-📧 Email: chakrabortydebika36@gmail.com
-🐙 GitHub: https://github.com/Debi357
+If you’d like to contribute or discuss improvements, feel free to:<br>
+📧 Email: chakrabortydebika36@gmail.com<br>
+🐙 GitHub: https://github.com/Debi357<br>
 
 
 ## ⭐ Show Some Love!
