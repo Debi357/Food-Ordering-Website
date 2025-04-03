@@ -1,6 +1,12 @@
-<h1 align="center"> Online-Food-Ordering-System </h1>
+<h1 align="center"> Online-Food-Ordering-Website </h1>
 
-Online Food Ordering System Website using basic PHP, SQL, HTML & CSS. You can use any one of XAMPP, WAMP or LAMP server to run the Web App on your local machine. It has a food ordering module for a customer. It also provides menu, orders and user management module for admin.
+This project is a **fully customized and improved** version of Online Food Ordering Website using basic PHP, SQL, HTML & CSS. it includes: 
+✔️ A fresh **UI design** with a modern look  
+✔️ **New features** and improved responsiveness  
+✔️ **Custom animations and effects**  
+✔️ Optimized code for better performance
+
+ You can use any one of XAMPP, WAMP or LAMP server to run the Web App on your local machine. It has a food ordering module for a customer. It also provides menu, orders and user management module for admin.
 
 <hr>
 
@@ -8,7 +14,9 @@ Admin Login & Password (You can change this in phpmyadmin): <br>
 Login: admin <br>
 Password: 2025 <br>
 
-
+## 📸 Screenshots 
+![Screenshot 1](link-to-image)  
+![Screenshot 2](link-to-image) 
 
 ## Technologies Used
 
@@ -33,3 +41,20 @@ Password: 2025 <br>
 4. Go to the food database created and click on 'Import' option in the top menu
 5. Upload the food.sql file and import it
 6. Open your web browser and check if you got the website running on your localhost (http://localhost:8080/www/)
+
+
+  ## ⚖️ License
+This project is licensed under the MIT License, based on Bootstrap Grid v4.3.1.
+
+Custom Version by [Debika chakraborty] in [2025]  
+Based on Bootstrap Grid v4.3.1  
+Original Copyright 2011-2019 The Bootstrap Authors & Twitter, Inc.  
+Licensed under MIT  
+
+
+## 🙌 Acknowledgments
+Bootstrap – The original grid system
+
+[Any other libraries/tools you used]
+
+Special thanks to the open-source community!
